@@ -1,0 +1,14 @@
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'protagonist-atom'
+      'submenu': [
+        {
+          'label': 'Parse'
+          'command': 'protagonist-atom:parse'
+        }
+      ]
+    ]
+  }
+]

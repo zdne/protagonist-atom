@@ -1,0 +1,19 @@
+{
+  "name": "protagonist-atom",
+  "main": "./lib/protagonist-atom",
+  "version": "0.1.0",
+  "description": "API Blueprint parser for Atom",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "protagonist-atom:parse"
+  },
+  "repository": "https://github.com/atom/protagonist-atom",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "protagonist": "^1.0.0"
+  }
+}
