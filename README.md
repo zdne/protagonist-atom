@@ -18,4 +18,3 @@ implemented.
 
 
 [API Description refract]: https://github.com/refractproject/refract-spec/blob/master/namespaces/api-description-namespace.md
-[]
