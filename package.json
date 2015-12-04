@@ -1,7 +1,7 @@
 {
   "name": "protagonist-atom",
   "main": "./lib/protagonist-atom",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "API Blueprint parser for Atom",
   "keywords": [
   ],
@@ -14,6 +14,6 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "protagonist": "^1.0.0"
+    "protagonist": "^1.2.0"
   }
 }
